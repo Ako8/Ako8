@@ -1,12 +1,33 @@
-- 👋 Hi, I’m @Ako8
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C#.
-- 💞️ I’m looking to collaborate on back-end development
-- 📫 How to reach me 
-     email: akogachechiladze22@gmail.com 
-     linkedin: https://www.linkedin.com/in/ako-gachechiladze-7a9148260/
+# Hello, I'm Ako! 👋
+
+### Junior .NET Developer passionate about building back-end solutions
+
+## About Me
+- 💻 Junior Back-End Developer specializing in C# and .NET Core
+- 🔧 Working with Clean Architecture and modern development patterns
+- 📚 Currently deepening my knowledge in:
+  - ASP.NET Core Web API
+  - Clean Architecture
+  - Design Patterns
+  - Microservices
+  - Domain-Driven Design
+
+## Tech Stack
+- C# | .NET Core | ASP.NET Core
+- SQL Server | Entity Framework Core
+- RESTful APIs
+- Git | GitHub
+- Clean Architecture
+
+## Let's Connect!
+- 📧 Email: akogachechiladze22@gmail.com
+- 💼 LinkedIn: [Ako Gachechiladze](https://www.linkedin.com/in/ako-gachechiladze-7a9148260/)
+
+## Looking For
+- 🤝 Collaboration opportunities in back-end development
+- 🌱 Projects involving .NET Core and modern architecture patterns
+- 📈 Chances to grow as a developer
 
 <!---
-Ako8/Ako8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Ako8/Ako8 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+-->
