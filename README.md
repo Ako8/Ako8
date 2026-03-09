@@ -1,6 +1,6 @@
 # Hello, I'm Ako! 👋
 
-### Junior .NET Developer passionate about building back-end solutions
+### Junior / Middle / Senior (Upper) .NET Developer passionate about building back-end solutions
 
 ## About Me
 - 💻 Junior Back-End Developer specializing in C# and .NET Core
